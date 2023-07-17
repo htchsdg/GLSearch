@@ -1,4 +1,4 @@
-from load_data import load_dataset
+jopoufrom load_data import load_dataset
 from node_feat import encode_node_features
 from config import FLAGS
 from torch.utils.data import Dataset as TorchDataset
